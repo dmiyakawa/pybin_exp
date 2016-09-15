@@ -1,0 +1,4 @@
+build/
+dist/
+pybin_exp.egg-info/
+*.pyc
